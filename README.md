@@ -14,4 +14,4 @@
 
 
 + 执行`npm run dev`在本地启动服务进行调试
-+ 执行`npm run build`生成静态页面+
++ 执行`npm run build`生成静态页面++
